@@ -14,8 +14,15 @@ Illustrer l'importance de l'encapsulation pour protéger les données sensibles.
 
 Pour exécuter les exercices localement :
 
-```git clone https://github.com/mnjaay/Tuto_Python_L3.git ```
+**Cloner le dépôt**
+```bash 
+git clone https://github.com/mnjaay/Tuto_Python_L3.git
+```
 
-```cd Tuto_Python_L3```
+**Se déplacer vers le dossier**
+
+```bash
+cd Tuto_Python_L3
+```
 
 
